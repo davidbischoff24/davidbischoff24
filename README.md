@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @davidbischoff24
 - 👀 I’m interested in Webpage's
-- 🌱 I’m currently learning WéPé
+- 🌱 I’m currently learning WörterPresse
 - 💞️ I’m looking to collaborate on WHAM Agency
 - 📫 How to reach me via WhatsApp
 - 😄 Pronouns: CMS/WIX
